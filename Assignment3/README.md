@@ -1,6 +1,6 @@
 # Assignment 3
 ###### A * path finding algorithms in python
-### Program Format
+## Program Format
 ```
 > python aStar.py <path to Matrix/maze> <flag for hueristic (m or e)>           NOTE: M stands for manhattan, e for euclidian
 ```
