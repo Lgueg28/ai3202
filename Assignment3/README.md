@@ -24,6 +24,8 @@ Node --> [7, 0] is the start, so it is in the bottom left. if you are looking at
 #### World1.txt
 ###### Manhattan
 ```
+user@cu-cs-vm:~/Documents/IntroToAI/Guegan_aStarSearch$ python aStar.py World2.txt m
+
 Evaluating solution for: World1.txt
 
 Solution Found!!!
@@ -35,6 +37,8 @@ Starting from the end: [0, 9], [0, 8], [0, 7], [0, 6], [1, 5], [1, 4], [2, 3], [
 
 ###### Euclidian
 ```
+user@cu-cs-vm:~/Documents/IntroToAI/Guegan_aStarSearch$ python aStar.py World1.txt e
+
 Evaluating solution for: World1.txt
 
 Solution Found!!!
@@ -47,6 +51,8 @@ Starting from the end: [0, 9], [0, 8], [1, 7], [2, 7], [3, 6], [3, 5], [4, 4], [
 #### World2.txt
 ###### Manhattan
 ```
+user@cu-cs-vm:~/Documents/IntroToAI/Guegan_aStarSearch$ python aStar.py World2.txt m
+
 Evaluating solution for: World2.txt
 
 Solution Found!!!
@@ -58,6 +64,8 @@ Starting from the end: [0, 9], [0, 8], [0, 7], [0, 6], [0, 5], [1, 4], [2, 4], [
 
 ###### Euclidian
 ```
+user@cu-cs-vm:~/Documents/IntroToAI/Guegan_aStarSearch$ python aStar.py World2.txt e
+
 Evaluating solution for: World2.txt
 
 Solution Found!!!
