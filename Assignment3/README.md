@@ -1,2 +1,2 @@
-Assignment 3\n
+Assignment 3
 A * path finding algorithms in python
