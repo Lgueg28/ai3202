@@ -1,4 +1,4 @@
 # ai3202
 Intro to Artificial Intelligence Assignments
 
-This folder contains assignments for CSCI 3202
+This folder contains Loic Guegan's assignments for CSCI 3202
