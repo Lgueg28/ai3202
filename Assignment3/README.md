@@ -19,7 +19,7 @@ I figured that because euclidian is a straightline estimate and we can use diago
 
 ### Results
 #### Format
-Node --> [7, 0] is the start, so it is in the both left. if you are looking at a matrix it is the cell in the 8th row in the 1st column
+Node --> [7, 0] is the start, so it is in the bottom left. if you are looking at a matrix it is the cell in the 8th row in the 1st column
 
 #### World1.txt
 ###### Manhattan
