@@ -75,4 +75,6 @@ Cost of Path: 142
 Starting from the end: [0, 9], [0, 8], [0, 7], [0, 6], [0, 5], [1, 4], [2, 4], [3, 4], [4, 3], [5, 3], [6, 3], [7, 2], [7, 1], [7, 0]
 ```
 
+#### Summary
+Euclidian seemed to evaluate more nodes in both cases, but outperformed manhattan in finding low cost in World1.txt. I believe the fact that it evaulated more nodes to be because I multiplied c in the euclidian equation above by 10 rather than 14 which had changes in nodes evaluated when I tested it locally
 
