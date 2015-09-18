@@ -8,9 +8,9 @@ Base Equation: a^2 + b^2 = c^2 (pythagorean theorem) then take square root of c^
 
 My Equation: 
 ```
-product = pow(childNode.location[0], 2) + pow( (columns-1) - childNode.location[1], 2 )
-ans = math.sqrt(product)
-childNode.heuristic = ans * 10
+product = pow(childNode.location[0], 2) + pow( (columns-1) - childNode.location[1], 2 ) //product is c^2 from aboove
+ans = math.sqrt(product)  //ans is just c
+childNode.heuristic = ans * 10 //multiply by 10 to get cost estimate from goal
 ```
 
 
