@@ -18,6 +18,9 @@ childNode.heuristic = ans * 10 //multiply by 10 to get cost estimate from goal
 I figured that because euclidian is a straightline estimate and we can use diagonal moves euclidian would be an interesting change to the heuristic. The fact that it gives a direct estimate also made me believe that it would give a better result. It did give me slightly different answers which you will see in the section below. I was a little unsure as to whether I should multiply c from above by 10 or 14 above to due to what i described in the first sentence, but i did mess around with it and left it at 10.
 
 ### Results
+#### Format
+Node --> [7, 0] is the start, so it is in the both left. if you are looking at a matrix it is the cell in the 8th row in the 1st column
+
 #### World1.txt
 ###### Manhattan
 ```
