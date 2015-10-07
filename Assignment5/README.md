@@ -1,8 +1,12 @@
-# Assignment 5
-### Markov Decision Process Maze Navigation
+# Assignment 5 - Markov Decision Process Maze Navigation
+## Usage
 ```
-> python mdp.py <yourWorld.txt> <epsilion value>
+> python mdp.py <yourWorld.txt> <epsilon value>
 ```
+
+## Effect of Varying Epsilon
+
+
 ## My Solution
 #### My Path
 ```
@@ -22,6 +26,7 @@ Node: [0, 7] Utility: 35.15
 Node: [0, 8] Utility: 39.56
 Node: [0, 9] Utility: 50.00
 ```
+
 #### My Utility Matrix
 ```
 15.80   17.53   19.46   21.61   23.85   27.70   30.62   35.15   39.56   50.00   
