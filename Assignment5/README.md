@@ -41,7 +41,7 @@ Node: [0, 9] Utility: 50.00
 My Epsilon Value for my solution listed above was 0.5 (See Above)
 
 ####Solution for epsilon 2:
-Same epsilon == 0.5 solution, but there were slightly different utilities
+Same solution as when epsilon equaled 2, but there were slightly different utilities
 ```
 Node: [7, 0] Utility: 3.33
 Node: [7, 1] Utility: 3.70
@@ -61,7 +61,7 @@ Node: [0, 9] Utility: 50.00
 ```
 
 ####Solution for epsilon 10:
-Same as epsilon == 0.5, but slightly different utilities
+Same solution as when epsilon equaled 5, but slightly different utilities
 ```
 Node: [7, 0] Utility: 3.28
 Node: [7, 1] Utility: 3.66
@@ -81,7 +81,7 @@ Node: [0, 9] Utility: 50.00
 ```
 
 ####Solution for epsilon 100:
-Same as epsilon == 0.5, but slightly different utilities
+Same as when epsilon equaled 0.5, but slightly different utilities
 ```
 Node: [7, 0] Utility: 2.16
 Node: [7, 1] Utility: 2.51
