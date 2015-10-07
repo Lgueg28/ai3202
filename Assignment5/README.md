@@ -5,7 +5,7 @@
 ```
 
 ## My Solution (epsilon 0.5)
-### My Path
+#### My Path
 ```
 Node: [7, 0] Utility: 3.34
 Node: [7, 1] Utility: 3.70
@@ -24,7 +24,7 @@ Node: [0, 8] Utility: 39.56
 Node: [0, 9] Utility: 50.00
 ```
 
-### My Utility Matrix
+#### My Utility Matrix
 ```
 15.80   17.53   19.46   21.61   23.85   27.70   30.62   35.15   39.56   50.00   
 0.00    0.00    14.98   17.76   20.55   19.80   0.00    25.31   0.00    36.00   
@@ -36,11 +36,11 @@ Node: [0, 9] Utility: 50.00
 3.34    3.70    4.11    4.61    4.68    4.76    5.34    5.41    4.81    4.33    
 ```
 
-#### Effect of Varying Epsilon
-#Solution for 0.5:
+## Effect of Varying Epsilon
+####Solution for 0.5:
 My Epsilon Value for my solution listed above was 0.5 (See Above)
 
-#Solution for epsilon 2:
+####Solution for epsilon 2:
 Same epsilon == 0.5 solution, but there were slightly different utilities
 ```
 Node: [7, 0] Utility: 3.33
@@ -60,7 +60,7 @@ Node: [0, 8] Utility: 39.56
 Node: [0, 9] Utility: 50.00
 ```
 
-#Solution for epsilon 10:
+####Solution for epsilon 10:
 Same as epsilon == 0.5, but slightly different utilities
 ```
 Node: [7, 0] Utility: 3.28
@@ -80,7 +80,7 @@ Node: [0, 8] Utility: 39.56
 Node: [0, 9] Utility: 50.00
 ```
 
-#Solution for epsilon 100:
+####Solution for epsilon 100:
 Same as epsilon == 0.5, but slightly different utilities
 ```
 Node: [7, 0] Utility: 2.16
