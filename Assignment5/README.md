@@ -4,7 +4,7 @@
 > python mdp.py <yourWorld.txt> <epsilon value>
 ```
 
-#### My Solution (epsilon 0.5)
+## My Solution (epsilon 0.5)
 ### My Path
 ```
 Node: [7, 0] Utility: 3.34
