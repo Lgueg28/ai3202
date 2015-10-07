@@ -1,4 +1,4 @@
-# Assignment 5 - Markov Decision Process Maze Navigation
+# Assignment 5 - Markov Maze Navigation
 ## Usage
 ```
 > python mdp.py <yourWorld.txt> <epsilon value>
