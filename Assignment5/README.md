@@ -4,8 +4,8 @@
 > python mdp.py <yourWorld.txt> <epsilon value>
 ```
 
-## My Solution (epsilon 0.5)
-#### My Path
+## Solution (epsilon 0.5)
+#### Path
 ```
 Node: [7, 0] Utility: 3.34
 Node: [7, 1] Utility: 3.70
@@ -24,7 +24,7 @@ Node: [0, 8] Utility: 39.56
 Node: [0, 9] Utility: 50.00
 ```
 
-#### My Utility Matrix
+#### Utility Matrix
 ```
 15.80   17.53   19.46   21.61   23.85   27.70   30.62   35.15   39.56   50.00   
 0.00    0.00    14.98   17.76   20.55   19.80   0.00    25.31   0.00    36.00   
