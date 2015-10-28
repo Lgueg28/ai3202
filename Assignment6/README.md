@@ -21,3 +21,6 @@ changes smoking or pollutions probability
 Joint Probability Flag
 supported(p, s, c, x, d) or not these ex. ~p or all these ex. P
 -jCSP (all probabilities for all combinations of cancer, smoking and pollution
+
+#####Example Usage
+python bayesNet.py -pP=0.5 -gc/p
