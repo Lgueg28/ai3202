@@ -1,4 +1,5 @@
-#This program computes a HMM for Intro To AI Homework 8 part 1
+##This program computes a HMM for Intro To AI Homework 8 part 1
 
-#Example Usage --> python hmmPart1.py typos20.data
+####Example Usage --> python hmmPart1.py typos20.data > answers.txt
 
+#####WARNING: This script generates a lot of output so it is recommended you pipe it into a text file
